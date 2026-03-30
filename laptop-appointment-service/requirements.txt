@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pymongo
+beanie
+pydantic
+pydantic-settings
+python-dotenv
+dnspython
